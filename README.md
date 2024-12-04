@@ -1,16 +1,14 @@
 # A propos de moi / About me
 
-
-
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 
+## Français
 
-
-## Whoami
+### Whoami
 
 Depuis plus d'un an, je me suis reconvertis dans la **cybersécurité**, avec un focus particulier sur les **challenges Capture The Flag (CTF)** pour affiner mes compétences. Pour partager mon expérience, j'ai créé un **GitBook** où je compile mes connaissances et découvertes. Mon objectif est de continuer à progresser tout en partageant modestement ce que j'ai appris.
 
-## Mes comptes
+### Mes comptes
 
 **TryHackMe** : 
 
@@ -28,21 +26,20 @@ https://www.root-me.org/Athenax?lang=fr
  
 https://4th3n4x.gitbook.io/ctf
 
-## Avertissement
+### Avertissement
 
 *Les notes présentes dans ce document ne proviennent pas exclusivement de mon travail. Elles sont en partie le fruit d'une compilation de mes propres notes prises lors des cours et d'éléments recueillis sur diverses plateformes d'apprentissage. Ce document a pour but de synthétiser et de partager ces informations de manière accessible.*
 
 
-
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 
+## English
 
-
-## Whoami
+### Whoami
 
 For over a year now, I have been transitioning into **cybersecurity**, with a particular focus on **Capture The Flag (CTF)** challenges to hone my skills. To share my experience, I created a **GitBook** where I compile my knowledge and discoveries. My goal is to continue progressing while modestly sharing what I have learned.
 
-## My accounts
+### My accounts
 
 **TryHackMe**:
  
@@ -60,13 +57,12 @@ https://www.root-me.org/Athenax?lang=fr
  
 https://4th3n4x.gitbook.io/ctf
 
-## Disclaimer
+### Disclaimer
 
 *The notes in this document do not come solely from my own experience. They are partly a compilation of my own notes taken during courses and elements gathered from various learning platforms. This document aims to synthesize and share this information in an accessible way. Any resemblance to other existing content is purely coincidental.*
 
 
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-
 
 
 <p align="center">
