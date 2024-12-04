@@ -12,10 +12,13 @@ Depuis plus d'un an, je me suis reconvertis dans la **cybersécurité**, avec un
 ## Mes comptes
 
 TryHackMe : https://tryhackme.com/p/athenax
+
 HackTheBox : https://app.hackthebox.com/profile/1909462
+
 RootMe : https://www.root-me.org/Athenax?lang=fr
 
 Mes writeups : https://4th3n4x.gitbook.io/notes
+
 ## Avertissement
 
 *Les notes présentes dans ce document ne proviennent pas exclusivement de mon travail. Elles sont en partie le fruit d'une compilation de mes propres notes prises lors des cours et d'éléments recueillis sur diverses plateformes d'apprentissage. Ce document a pour but de synthétiser et de partager ces informations de manière accessible.
@@ -28,7 +31,9 @@ For over a year now, I have been transitioning into **cybersecurity**, with a pa
 ## My accounts
 
 TryHackMe : https://tryhackme.com/p/athenax
+
 HackTheBox : https://app.hackthebox.com/profile/1909462
+
 RootMe : https://www.root-me.org/Athenax?lang=fr
 
 My writeups: https://4th3n4x.gitbook.io/notes
