@@ -1,6 +1,6 @@
 # A propos de moi / About me
 
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+<mark style="color:blue;">✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵</mark>
 
 ## Français
 
@@ -10,28 +10,27 @@ Depuis plus d'un an, je me suis reconvertis dans la **cybersécurité**, avec un
 
 ### Mes comptes
 
-**TryHackMe** : 
+**TryHackMe** :
 
-https://tryhackme.com/p/athenax
+{% embed url="https://tryhackme.com/p/athenax" %}
 
-**HackTheBox** : 
+**HackTheBox** :
 
-https://app.hackthebox.com/profile/1909462
+{% embed url="https://app.hackthebox.com/profile/1909462" %}
 
-**RootMe** : 
+**RootMe** :
 
-https://www.root-me.org/Athenax?lang=fr
+{% embed url="https://www.root-me.org/Athenax?lang=fr" %}
 
 **Mes writeups** :
- 
-https://4th3n4x.gitbook.io/ctf
+
+{% embed url="https://4th3n4x.gitbook.io/ctf" %}
 
 ### Avertissement
 
-*Les notes présentes dans ce document ne proviennent pas exclusivement de mon travail. Elles sont en partie le fruit d'une compilation de mes propres notes prises lors des cours et d'éléments recueillis sur diverses plateformes d'apprentissage. Ce document a pour but de synthétiser et de partager ces informations de manière accessible.*
+_Les notes présentes dans ce document ne proviennent pas exclusivement de mon travail. Elles sont en partie le fruit d'une compilation de mes propres notes prises lors des cours et d'éléments recueillis sur diverses plateformes d'apprentissage. Ce document a pour but de synthétiser et de partager ces informations de manière accessible._
 
-
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+<mark style="color:blue;">✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵</mark>
 
 ## English
 
@@ -42,33 +41,27 @@ For over a year now, I have been transitioning into **cybersecurity**, with a pa
 ### My accounts
 
 **TryHackMe**:
- 
-https://tryhackme.com/p/athenax
+
+{% embed url="https://tryhackme.com/p/athenax" %}
 
 **HackTheBox**:
- 
-https://app.hackthebox.com/profile/1909462
+
+{% embed url="https://app.hackthebox.com/profile/1909462" %}
 
 **RootMe**:
- 
-https://www.root-me.org/Athenax?lang=fr
+
+{% embed url="https://www.root-me.org/Athenax?lang=fr" %}
 
 **My writeups**:
- 
-https://4th3n4x.gitbook.io/ctf
+
+{% embed url="https://4th3n4x.gitbook.io/ctf" %}
 
 ### Disclaimer
 
-*The notes in this document do not come solely from my own experience. They are partly a compilation of my own notes taken during courses and elements gathered from various learning platforms. This document aims to synthesize and share this information in an accessible way. Any resemblance to other existing content is purely coincidental.*
+_The notes in this document do not come solely from my own experience. They are partly a compilation of my own notes taken during courses and elements gathered from various learning platforms. This document aims to synthesize and share this information in an accessible way. Any resemblance to other existing content is purely coincidental._
 
+<mark style="color:blue;">✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵</mark>
 
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+<div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/athenax.png" alt="THM Badge" width="375"></div>
 
-
-<p align="center">
-	<img src="https://tryhackme-badges.s3.amazonaws.com/athenax.png" alt="THM Badge" width="400"/>
-</p>
-
-<p align="center">
-	<img src="https://www.hackthebox.com/badge/image/1909462" alt="HTB Badge" width="400"/>
-</p>
+<div align="center"><img src="https://www.hackthebox.com/badge/image/1909462" alt="HTB Badge" width="375"></div>
