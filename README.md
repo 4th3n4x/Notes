@@ -1,6 +1,10 @@
 # A propos de moi / About me
 
+
+
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+
+
 
 ## Whoami
 
@@ -27,6 +31,12 @@ https://4th3n4x.gitbook.io/notes
 ## Avertissement
 
 *Les notes présentes dans ce document ne proviennent pas exclusivement de mon travail. Elles sont en partie le fruit d'une compilation de mes propres notes prises lors des cours et d'éléments recueillis sur diverses plateformes d'apprentissage. Ce document a pour but de synthétiser et de partager ces informations de manière accessible.*
+
+
+
+✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+
+
 
 ## Whoami
 
@@ -56,6 +66,8 @@ https://4th3n4x.gitbook.io/notes
 
 
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
+
+
 
 <p align="center">
 	<img src="https://tryhackme-badges.s3.amazonaws.com/athenax.png" alt="THM Badge" width="400"/>
