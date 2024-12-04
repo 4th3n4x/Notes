@@ -52,8 +52,10 @@ https://4th3n4x.gitbook.io/notes
 
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵ Athenax ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 
+<p align="center">
+	<img src="https://tryhackme-badges.s3.amazonaws.com/athenax.png" alt="THM Badge" width="400"/>
+</p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/athenax.png" alt="THM Badge"/>
-
-
-<img src="https://www.hackthebox.com/badge/image/1909462" alt="HTB Badge"/>
+<p align="center">
+	<img src="https://www.hackthebox.com/badge/image/1909462" alt="HTB Badge" width="400"/>
+</p>
