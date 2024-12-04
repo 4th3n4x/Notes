@@ -26,7 +26,7 @@ https://www.root-me.org/Athenax?lang=fr
 
 **Mes writeups** :
  
-https://4th3n4x.gitbook.io/notes
+https://4th3n4x.gitbook.io/ctf
 
 ## Avertissement
 
@@ -58,7 +58,7 @@ https://www.root-me.org/Athenax?lang=fr
 
 **My writeups**:
  
-https://4th3n4x.gitbook.io/notes
+https://4th3n4x.gitbook.io/ctf
 
 ## Disclaimer
 
