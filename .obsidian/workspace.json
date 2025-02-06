@@ -1,0 +1,661 @@
+{
+  "main": {
+    "id": "6781f5395ee346de",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7f7d3c739e1b63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80bda2aa978b6fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Général/Bruteforce.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bruteforce"
+            }
+          },
+          {
+            "id": "7f17320ffa536cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listes/users.txt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "users.txt"
+            }
+          },
+          {
+            "id": "1869f567ded7ea02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Général/Ports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ports"
+            }
+          },
+          {
+            "id": "2af433a92757cb4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Général/Redirection de port _ tunnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redirection de port _ tunnel"
+            }
+          },
+          {
+            "id": "93cf1ec312078be4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Général/Ports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ports"
+            }
+          },
+          {
+            "id": "73468ebda9e0b753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Général/Ports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ports"
+            }
+          },
+          {
+            "id": "61dab47748c1ee90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory/Exploitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploitation"
+            }
+          },
+          {
+            "id": "4b8799e914f8abf2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "7f1b7e78b35af21b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elévation des privilèges/Elévation des privilèges - Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elévation des privilèges - Linux"
+            }
+          },
+          {
+            "id": "ce9adff5316fbfa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVESC LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRIVESC LINUX"
+            }
+          },
+          {
+            "id": "13004075c198c174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVESC LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRIVESC LINUX"
+            }
+          },
+          {
+            "id": "4b698617b82b4586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/HTTP Verbe Tampering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Verbe Tampering"
+            }
+          },
+          {
+            "id": "a9924c948dfd84c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/XEE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XEE"
+            }
+          },
+          {
+            "id": "b0810741387688df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory/Exploitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploitation"
+            }
+          },
+          {
+            "id": "1112a25b90aa4dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVESC LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRIVESC LINUX"
+            }
+          },
+          {
+            "id": "36c0a502eb76a968",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outils/Ffuf.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ffuf"
+            }
+          },
+          {
+            "id": "f4d20d446b61146f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVESC LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PRIVESC LINUX"
+            }
+          },
+          {
+            "id": "50843c5122d17549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIFI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WIFI"
+            }
+          },
+          {
+            "id": "3beadb0153916fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elévation des privilèges/Elévation des privilèges - Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elévation des privilèges - Linux"
+            }
+          },
+          {
+            "id": "0d08696977e229e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory/Exploitation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploitation"
+            }
+          },
+          {
+            "id": "d68138d1169e111c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autres/Wifi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wifi"
+            }
+          },
+          {
+            "id": "b3628ace291bf857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outils/TCPdump.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TCPdump"
+            }
+          },
+          {
+            "id": "57055f34c19fdd57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Programmation/Assembleur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembleur"
+            }
+          },
+          {
+            "id": "9b15f02e3c54f85c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Web/XSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XSS"
+            }
+          },
+          {
+            "id": "eb5188a0dd28f606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01. Général/Redirection de port - tunnel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redirection de port - tunnel"
+            }
+          },
+          {
+            "id": "9f8d3fefd2f8d644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Programmation/Assembleur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Assembleur"
+            }
+          },
+          {
+            "id": "f3d83cd93b8ca1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Autres/Hameçonnage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hameçonnage"
+            }
+          },
+          {
+            "id": "7cbbfd6e6f15b280",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Programmation/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "df5d2cf4605ce808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08. Programmation/Python.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python"
+            }
+          },
+          {
+            "id": "c2e2141e6757ab25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Web/XXE.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XXE"
+            }
+          },
+          {
+            "id": "487cb4f8943f56c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Web/Injection de commande.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Injection de commande"
+            }
+          },
+          {
+            "id": "471dcee275232413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Web/HTTP Verbe Tampering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP Verbe Tampering"
+            }
+          },
+          {
+            "id": "411a43fda45e7e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05. Outils/Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git"
+            }
+          }
+        ],
+        "currentTab": 32
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b831ced08ca48927",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dcf77fd04d4d780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4b8634869943a72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "68907d5dd3237945",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f665f0928d21d60d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "37c1077a5133929c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cf30e0427f98dc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc760b02f9e27377",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Elévation des privilèges/Elévation des privilèges - Windows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elévation des privilèges - Windows"
+            }
+          },
+          {
+            "id": "3f8bfbb30b46c71d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Outils/TCPdump.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TCPdump"
+            }
+          },
+          {
+            "id": "1ea282bde5ed6a04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a4fd7bb01581d7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05. Outils/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Git"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "411a43fda45e7e66",
+  "lastOpenFiles": [
+    "README.md",
+    "08. Programmation/Assembleur.md",
+    "08. Programmation/Python.md",
+    "08. Programmation/PowerShell.md",
+    "08. Programmation/Bash.md",
+    "05. Outils/Ffuf.md",
+    "05. Outils/Exegol.md",
+    "11. Listes/users.txt.md",
+    "05. Outils/Git.md",
+    "05. Outils/Metasploit.md",
+    "05. Outils/TCPdump.md",
+    "09. Wifi/WIFI 2.md",
+    "02. Bases/Basique Linux.md",
+    "05. Outils/Curl.md",
+    "02. Bases/Basique Windows.md",
+    "05. Outils/OpenVAS.md",
+    "09. Wifi/WIFI.md",
+    "01. Général/Bruteforce.md",
+    "04. Web/SSTI.md",
+    "04. Web/LFI.md",
+    "04. Web/HTTP Verbe Tampering.md",
+    "04. Web/File upload.md",
+    "04. Web/SQLi.md",
+    "04. Web/XXE.md",
+    "04. Web/Client Side",
+    "04. Web/Server Side",
+    "04. Web/XSS.md",
+    "04. Web/Injection de commande.md",
+    "12. Blue Team",
+    "Pasted image 20241128153240.png",
+    "04. Web/Authentification",
+    "Pasted image 20241128153545.png",
+    "08. Programmation",
+    "09. Wifi",
+    "HORS SCOPE/Pasted image 20241118130736.png",
+    "HORS SCOPE/Pasted image 20241118130613.png",
+    "HORS SCOPE/Pasted image 20241118125837.png",
+    "HORS SCOPE/Pasted image 20241118125817.png",
+    "HORS SCOPE/Pasted image 20241118130630.png",
+    "HORS SCOPE",
+    "05. Outils",
+    "11. Listes",
+    "10. Autres",
+    "Untitled.canvas"
+  ]
+}

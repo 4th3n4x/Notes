@@ -1,0 +1,12 @@
+```
+admin
+password
+123456
+qwerty
+letmein
+toor
+1234
+welcome
+changeme
+root
+```

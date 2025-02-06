@@ -1,0 +1,12 @@
+```
+admin
+root
+user
+guest
+test
+administrator
+sysadmin
+support
+ftp
+manager
+```
